@@ -1,0 +1,1 @@
+haar_cascade_path = "haarcascade_frontalface_default.xml"
